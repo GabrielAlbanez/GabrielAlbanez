@@ -8,6 +8,11 @@
 ![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=GabrielAlbanez&show_icons=true&theme=radical)
 
 ---
+![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=GabrielAlbanez&theme=github)
+
+![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=GabrielAlbanez&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlbanez&layout=compact&theme=radical)
 
 ## 🔧 Tecnologias e Ferramentas
 ![Ferramentas](https://skillicons.dev/icons?i=python,java,javascript,react,postgresql,docker,git&theme=dark)
