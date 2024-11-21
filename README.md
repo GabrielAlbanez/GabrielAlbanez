@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá! Eu sou [Seu Nome]!
 
-<!--
-**GabrielAlbanez/GabrielAlbanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor(a) apaixonado(a) por tecnologia, focado(a) em **[área de interesse]**, como [tecnologias que você usa, ex.: desenvolvimento de sistemas hospitalares].
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estatísticas do GitHub
+![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=SeuNome&show_icons=true&theme=radical)
+
+---
+
+## 🔧 Tecnologias e Ferramentas
+![Ferramentas](https://skillicons.dev/icons?i=python,java,javascript,react,postgresql,docker,git&theme=dark)
+
+---
+
+## 🌱 Atualmente aprendendo
+- [Assunto 1]
+- [Assunto 2]
+
+---
+
+## 💼 Experiência Profissional
+- 🏢 Trabalho na área de **Desenvolvimento de Software** voltado para [área ou setor].
+
+---
+
+## 🌐 Como me encontrar
+- 🌍 [Site pessoal ou LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 📧 E-mail: [seu-email@gmail.com](mailto:seu-email@gmail.com)
+- 🐦 [Twitter](https://twitter.com/seu-perfil)
+
+---
+
+⭐ **Obrigado por visitar meu perfil! Não se esqueça de dar uma olhada nos meus repositórios.**
+
