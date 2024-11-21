@@ -39,9 +39,8 @@ Atualmente, trabalho em uma empresa que presta serviços de software para divers
 
 ## 🌐 Como me encontrar
 
-- 🌍 [**LinkedIn**](https://www.linkedin.com/in/seu-perfil)  
-- 📧 **E-mail:** [seu-email@gmail.com](mailto:seu-email@gmail.com)  
-- 🐦 [**Twitter**](https://twitter.com/seu-perfil)  
+- 🌍 [**LinkedIn**](https://www.linkedin.com/in/gabriel-albanez)  
+- 📧 **E-mail:** [gabriel.g.albanez@gmail.com](mailto:gabriel.g.albanez@gmail.com)  
 
 ---
 
