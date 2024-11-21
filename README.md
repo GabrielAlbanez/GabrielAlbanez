@@ -15,7 +15,8 @@
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlbanez&layout=compact&theme=radical)
 
 ## 🔧 Tecnologias e Ferramentas
-![Ferramentas](https://skillicons.dev/icons?i=python,java,javascript,react,postgresql,docker,git&theme=dark)
+![Ferramentas](https://skillicons.dev/icons?i=python,java,javascript,react,nextjs,tailwind,clerk,spring,postgresql,docker,git,postman,websocket&theme=dark)
+
 
 ---
 
