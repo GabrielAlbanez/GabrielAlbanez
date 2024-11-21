@@ -20,7 +20,7 @@ Atualmente, trabalho em uma empresa que presta serviços de software para divers
 ## 🔧 Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nextjs,tailwind,spring,postgresql,docker,git,postman,websocket&theme=dark" alt="Tecnologias e Ferramentas">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,reactnative,nextjs,tailwind,html,css,php,spring,postgresql,docker,git,postman,websocket&theme=dark" alt="Tecnologias e Ferramentas">
 </div>
 
 ---
