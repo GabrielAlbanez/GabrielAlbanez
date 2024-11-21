@@ -5,7 +5,7 @@
 ---
 
 ## 📈 Estatísticas do GitHub
-![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=SeuNome&show_icons=true&theme=radical)
+![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=GabrielAlbanez&show_icons=true&theme=radical)
 
 ---
 
