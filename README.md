@@ -1,11 +1,11 @@
-# 👋 Olá! Eu sou Gabriel!
+# Gabriel Gonçalves Albanez
 
-Sou um desenvolvedor apaixonado por tecnologia, focado em **Desenvolvimento Web**!  
-Atualmente, trabalho em uma empresa que presta serviços de software para diversos hospitais em todo o Brasil, ajudando a transformar a saúde com tecnologia.
+Desenvolvedor de software com foco em **Desenvolvimento Web**, apaixonado por tecnologia e pela criação de soluções eficientes, escaláveis e orientadas à experiência do usuário. Possuo experiência no desenvolvimento e manutenção de sistemas corporativos, atuando atualmente em projetos voltados ao setor hospitalar, contribuindo para a modernização e otimização de processos na área da saúde por meio da tecnologia.
 
 ---
 
 ## 📈 Estatísticas do GitHub
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielAlbanez&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielAlbanez&theme=radical" alt="Sequência de Contribuições" height="150">
@@ -25,24 +25,30 @@ Atualmente, trabalho em uma empresa que presta serviços de software para divers
 
 ---
 
-## 🌱 Atualmente aprendendo
-- 🔍 **WebSockets e tempo real**  
-- 🚀 **Otimização de aplicações com Spring e Next.js**  
-- 🌐 **Integração contínua e entrega contínua (CI/CD)**  
+## 🌱 Desenvolvimento Contínuo
+
+Atualmente, aprofundando conhecimentos em:
+
+* Arquiteturas em tempo real com **WebSockets**
+* Otimização e escalabilidade de aplicações utilizando **Spring** e **Next.js**
+* Práticas de **Integração Contínua e Entrega Contínua (CI/CD)**
+* Boas práticas de desenvolvimento, performance e arquitetura de software
 
 ---
 
 ## 💼 Experiência Profissional
-- 🏢 Trabalho na área de **Desenvolvimento de Software** com foco em sistemas hospitalares, utilizando tecnologias modernas para garantir eficiência e segurança nos processos.
+
+Atuação na área de **Desenvolvimento de Software** com foco em sistemas hospitalares, participando do desenvolvimento e sustentação de soluções utilizadas por instituições de saúde em diferentes regiões do Brasil. Experiência voltada à criação de aplicações seguras, confiáveis e eficientes, contribuindo para a melhoria de processos operacionais e tecnológicos no ambiente hospitalar.
 
 ---
 
-## 🌐 Como me encontrar
+## 🌐 Contato
 
-- 🌍 [**LinkedIn**](https://www.linkedin.com/in/gabriel-albanez)  
-- 📧 **E-mail:** [gabriel.g.albanez@gmail.com](mailto:gabriel.g.albanez@gmail.com)  
+* 🌍 [LinkedIn](https://www.linkedin.com/in/gabriel-albanez)
+* 📧 E-mail: [gabriel.g.albanez@gmail.com](mailto:gabriel.g.albanez@gmail.com)
 
 ---
 
-⭐ **Obrigado por visitar meu perfil!**  
-**💻 Não se esqueça de conferir meus repositórios para ver os projetos em que estou trabalhando.**
+⭐ Obrigado pela visita ao meu perfil.
+
+💻 Sinta-se à vontade para explorar meus repositórios e acompanhar os projetos e tecnologias com os quais venho trabalhando.
